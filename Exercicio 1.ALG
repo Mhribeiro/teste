@@ -1,8 +1,8 @@
 Algoritmo "repeticao"
  //Escreva um algoritmo que receba os valores
-//dos sal·rios de todos os membros de uma
-//famÌlia e ao final, mostre quanto dinheiro a
-//famÌlia possui.
+//dos sal√°rios de todos os membros de uma
+//fam√≠lia e ao final, mostre quanto dinheiro a
+//fam√≠lia possui.
 
 
 Var
@@ -12,7 +12,7 @@ Var
 Inicio
       valortotal <- 0
 
-      escreva("Informe numero membro da famÌlia: ")
+      escreva("Informe numero membro da fam√≠lia: ")
       leia(nMembros)
       
         enquanto (contador <= nMembros )faca
@@ -22,7 +22,7 @@ Inicio
         contador <- contador
         
         fimenquanto
-        escreva("A famÌlia possue um total de R$ ",valortotal,"em sal·rios.")
+        escreva("A fam√≠lia possue um total de R$ ",valortotal,"em sal√°rios.")
         
 
 Fimalgoritmo
